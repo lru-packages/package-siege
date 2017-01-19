@@ -1,0 +1,2 @@
+* Wed Jan 18 2017 Ryan Parman <ryan@ryanparman.com> 4.0.0-1
+- Bundles Siege 4.0.0.
